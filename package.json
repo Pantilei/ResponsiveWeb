@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Web App",
+  "main": "index.js",
+  "homepage": "https://Pantilei.github.io/ResponsiveWeb",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pantilei/ResponsiveWeb.git"
+  },
+  "author": "Pantilei Ianulov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pantilei/ResponsiveWeb/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
